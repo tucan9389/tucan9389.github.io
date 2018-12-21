@@ -103,11 +103,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Doyoung Gwak"
+  avatar           : "/assets/images/bio-photo/33780728_1763244773741705_5533094792776384512_n.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Hi, I make an iOS app for a hobby!"
+  location         : "Seoul"
+  email            : "tucan.dev@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/tucan9389"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
