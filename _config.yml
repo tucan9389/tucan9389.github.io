@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Doyoung Gwak"
-  avatar           : "/assets/images/bio-photo/33780728_1763244773741705_5533094792776384512_n.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://avatars3.githubusercontent.com/u/37643248" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi, I make an iOS app for a hobby!"
   location         : "Seoul"
   email            : "tucan.dev@gmail.com"
